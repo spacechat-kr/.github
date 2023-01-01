@@ -18,6 +18,6 @@
 ## End-point
 - (REST API Server) https://api.spacechat.kr/
 - springboot-REST API EC2 Server
-- with ELB
-- with gabia Domain
+- with AWS-ELB
+- with  Domain
 - with EC2 t2.micro
