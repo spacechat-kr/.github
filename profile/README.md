@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,11 +10,11 @@
 -->
 
 
-# Front-End
+# 🌈 Front-End
 ## End-point
 - (Website) https://www.spacechat.kr/
 
-# Back-End
+# 👩‍💻 Back-End
 ## End-point
 - (REST API Server) https://api.spacechat.kr/
 - springboot-REST API EC2 Server
